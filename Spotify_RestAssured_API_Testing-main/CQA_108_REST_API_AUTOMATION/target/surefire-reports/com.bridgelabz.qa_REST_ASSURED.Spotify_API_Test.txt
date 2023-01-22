@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bridgelabz.qa_REST_ASSURED.Spotify_API_Test
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.22 s - in com.bridgelabz.qa_REST_ASSURED.Spotify_API_Test
